@@ -1,0 +1,3 @@
+This tutorial are designed with help of OOPs with C++ 6th edition by E. Balagurusamy.
+You should definately buy the text book if you want to learn more.
+This tutorial never intent for any copyright violaton or any business harm to the author or publisher.

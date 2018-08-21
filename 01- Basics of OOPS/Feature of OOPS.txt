@@ -1,0 +1,5 @@
+Some of the concepts used extensively in OOPS programming:
+
+1. Objects: Objects are basic run time entities in object oriented system. They may represent a person,a bank account or a vehicle.
+2.Classes : A class is collection of variable and functions or more formally it is a blueprint for a problem or place or thing.
+3. Data Abstraction and encapsulation: The wrapping up of data and function into a signle unit(called class) is encapsulation. Abstraction refers to the act of representing essential feature without including the background details or explanation or more formally it is known as data hiding
